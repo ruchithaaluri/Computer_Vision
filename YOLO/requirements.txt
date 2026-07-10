@@ -1,0 +1,5 @@
+gradio==4.44.1
+openai==1.59.3
+python-dotenv==1.0.1
+pillow==10.2.0
+requests==2.31.0
